@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/anotha-one/static/css/main.2cce8147.chunk.css",
+    "main.js": "/anotha-one/static/js/main.e5508204.chunk.js",
+    "main.js.map": "/anotha-one/static/js/main.e5508204.chunk.js.map",
+    "runtime~main.js": "/anotha-one/static/js/runtime~main.0f3a2b7b.js",
+    "runtime~main.js.map": "/anotha-one/static/js/runtime~main.0f3a2b7b.js.map",
+    "static/js/2.0bbab059.chunk.js": "/anotha-one/static/js/2.0bbab059.chunk.js",
+    "static/js/2.0bbab059.chunk.js.map": "/anotha-one/static/js/2.0bbab059.chunk.js.map",
+    "index.html": "/anotha-one/index.html",
+    "precache-manifest.f94e57413112c80529a9474f71b75e9b.js": "/anotha-one/precache-manifest.f94e57413112c80529a9474f71b75e9b.js",
+    "service-worker.js": "/anotha-one/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/anotha-one/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/anotha-one/static/media/logo.5d5d9eef.svg"
+  }
+}
